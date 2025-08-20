@@ -1,4 +1,3 @@
-<!-- Profile Header -->
 <h1 align="center">
   Hi there 👋, I'm <span style="color:#00C4FF;">Sumit Sharma</span>
 </h1>
@@ -8,60 +7,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Specialist;3D+Web+Developer;React+%7C+Three.js+%7C+Blender;Clean+Code+Advocate" alt="Typing SVG" />
 </p>
-
-<!-- 3D Animation Section -->
-<div align="center">
-  <svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
-    <!-- 3D Cube with inline animations -->
-    <g transform="translate(200,100)">
-      <!-- Front face -->
-      <polygon points="-50,-50 50,-50 50,50 -50,50" fill="#00C4FF" fill-opacity="0.2" stroke="#00C4FF" stroke-width="2">
-        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="15s" repeatCount="indefinite"/>
-      </polygon>
-      
-      <!-- Right face -->
-      <polygon points="50,-50 75,-25 75,25 50,50" fill="#00C4FF" fill-opacity="0.3" stroke="#00C4FF" stroke-width="2">
-        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="15s" repeatCount="indefinite"/>
-      </polygon>
-      
-      <!-- Top face -->
-      <polygon points="-50,-50 50,-50 75,-25 -25,-25" fill="#00C4FF" fill-opacity="0.4" stroke="#00C4FF" stroke-width="2">
-        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="15s" repeatCount="indefinite"/>
-      </polygon>
-    </g>
-    
-    <!-- Tech Icons with floating animation -->
-    <g>
-      <circle cx="100" cy="80" r="15" fill="#00C4FF">
-        <animate attributeName="cy" values="80;70;80" dur="3s" repeatCount="indefinite"/>
-      </circle>
-      <text x="100" y="85" text-anchor="middle" fill="white" font-size="12" font-weight="bold">
-        <animate attributeName="y" values="85;75;85" dur="3s" repeatCount="indefinite"/>
-        3JS
-      </text>
-    </g>
-    
-    <g>
-      <circle cx="320" cy="120" r="15" fill="#00C4FF">
-        <animate attributeName="cy" values="120;110;120" dur="3s" repeatCount="indefinite" begin="0.5s"/>
-      </circle>
-      <text x="320" y="125" text-anchor="middle" fill="white" font-size="10" font-weight="bold">
-        <animate attributeName="y" values="125;115;125" dur="3s" repeatCount="indefinite" begin="0.5s"/>
-        R3F
-      </text>
-    </g>
-    
-    <g>
-      <circle cx="200" cy="160" r="15" fill="#00C4FF">
-        <animate attributeName="cy" values="160;150;160" dur="3s" repeatCount="indefinite" begin="1s"/>
-      </circle>
-      <text x="200" y="165" text-anchor="middle" fill="white" font-size="10" font-weight="bold">
-        <animate attributeName="y" values="165;155;165" dur="3s" repeatCount="indefinite" begin="1s"/>
-        3D
-      </text>
-    </g>
-  </svg>
-</div>
 
 ---
 
@@ -159,40 +104,17 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack and speci
   <i>Exploring the intersection of web development and 3D graphics through innovative projects</i>
 </p>
 
-<!-- Project cards with 3D animations -->
-<div align="center">
-  <svg width="700" height="150" xmlns="http://www.w3.org/2000/svg">
-    <!-- Project 1 -->
-    <g>
-      <rect x="20" y="20" rx="10" ry="10" width="200" height="110" fill="#0d1117" stroke="#00C4FF" stroke-width="2">
-        <animate attributeName="stroke-opacity" values="1;0.5;1" dur="4s" repeatCount="indefinite"/>
-      </rect>
-      <text x="120" y="50" text-anchor="middle" fill="#00C4FF" font-weight="bold">3D Portfolio</text>
-      <text x="120" y="80" text-anchor="middle" fill="white" font-size="12">React Three Fiber</text>
-      <text x="120" y="100" text-anchor="middle" fill="white" font-size="12">Blender Models</text>
-    </g>
-    
-    <!-- Project 2 -->
-    <g>
-      <rect x="250" y="20" rx="10" ry="10" width="200" height="110" fill="#0d1117" stroke="#00C4FF" stroke-width="2">
-        <animate attributeName="stroke-opacity" values="1;0.5;1" dur="4s" repeatCount="indefinite" begin="1s"/>
-      </rect>
-      <text x="350" y="50" text-anchor="middle" fill="#00C4FF" font-weight="bold">MERN App</text>
-      <text x="350" y="80" text-anchor="middle" fill="white" font-size="12">React + Node</text>
-      <text x="350" y="100" text-anchor="middle" fill="white" font-size="12">MongoDB</text>
-    </g>
-    
-    <!-- Project 3 -->
-    <g>
-      <rect x="480" y="20" rx="10" ry="10" width="200" height="110" fill="#0d1117" stroke="#00C4FF" stroke-width="2">
-        <animate attributeName="stroke-opacity" values="1;0.5;1" dur="4s" repeatCount="indefinite" begin="2s"/>
-      </rect>
-      <text x="580" y="50" text-anchor="middle" fill="#00C4FF" font-weight="bold">Web Game</text>
-      <text x="580" y="80" text-anchor="middle" fill="white" font-size="12">Three.js</text>
-      <text x="580" y="100" text-anchor="middle" fill="white" font-size="12">Interactive 3D</text>
-    </g>
-  </svg>
-</div>
+<p align="center">
+  <a href="https://github.com/Sumit7521?tab=repositories">
+    <img src="https://via.placeholder.com/220x120.png?text=3D+Portfolio" alt="3D Portfolio" />
+  </a>
+  <a href="https://github.com/Sumit7521?tab=repositories">
+    <img src="https://via.placeholder.com/220x120.png?text=MERN+App" alt="MERN App" />
+  </a>
+  <a href="https://github.com/Sumit7521?tab=repositories">
+    <img src="https://via.placeholder.com/220x120.png?text=Web+Game" alt="Web Game" />
+  </a>
+</p>
 
 ---
 
